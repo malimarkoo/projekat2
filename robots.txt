@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow:https://github.com/malimarkoo/projekat2/sitemap.xml
 
-sitemap: https://github.com/malimarkoo/projekat2/sitemap.xml
+ 
